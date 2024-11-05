@@ -11,16 +11,13 @@ Features
  Responsive Design: Fully responsive layout that adapts to mobile, tablet, and desktop screens.
  Smooth Scrolling: Implemented using Locomotive Scroll and GSAP for smooth scrolling effects.
  Interactive FAQ: Accordion-style FAQ section where users can expand/collapse answers.
- Custom Sidebar Navigation: Navigation transforms into a sidebar menu on smaller screens.
- Canvas Animation: Smooth image sequences displayed within a canvas element for a richer user experience.
+
 
 Tech Stack
 
  HTML: Structure of the page.
- CSS: Styling and responsive design, with an additional `responsive.css` file for media querybased responsiveness.
+ CSS: Styling and responsive design, with an additional `phoneStyle.css` file for media querybased responsiveness.
  JavaScript: Interactive elements, smooth scroll functionality, and canvas animations.
- GSAP: For animations and scrolltriggered effects.
- Locomotive Scroll: Smooth scrolling and synchronization with scrolltriggered animations.
 
 Screenshot of output:
 
